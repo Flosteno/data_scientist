@@ -6,6 +6,8 @@ Creation of a series of methods to explore data from array and hash
 
 - ruby
 
+## Files
+
 ### 00_journalists.rb
 
 File where methods are used to find some information in an array
