@@ -139,8 +139,8 @@ def handle_length_repartition(array)
 end
 
 
-#  Methode qui gère la navigation et les actions?
-def menu(array)
+#  Methode qui permet de naviguer entre les différents choix et faire appelle aux méthodes concernés ?
+def crazy_array(array)
   
 
 choice = ""
@@ -233,11 +233,11 @@ def invalid_choice
 end
 
 
-# Methode qui lance kekchose :s
+# Methode qui exécute la méthode menu :s
 def perform()
 
 
-  menu(data_journalists)
+  crazy_array(data_journalists)
 
 end
 
